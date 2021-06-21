@@ -1,0 +1,1 @@
+XCOPY /s /y /d .\Extreme_Engine\*.fx  .\Bin\Resources\Shader\
